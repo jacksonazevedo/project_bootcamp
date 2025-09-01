@@ -17,7 +17,6 @@ __pycache__/
 # Arquivos de saída do projeto
 *.pkl
 *.json
-*.csv
 
 # Sistema operacional
 .DS_Store
